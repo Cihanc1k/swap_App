@@ -1,0 +1,71 @@
+﻿<section class="hot-jobs-area hot-jobs-area-two pb-100" id="feature-notices">
+    <div class="container">
+        <div class="section-title green-title">
+            <span>Sıcak Takaslar</span>
+            <h2>Önerilen İlanlar</h2>
+        </div>
+        <ul class="shorting-menu">
+            <li class="filter" data-filter="all">
+                Sana yakın ilanlar
+            </li>
+            <li class="filter" data-filter=".part-time">
+                En çok teklif alanlar
+            </li>
+            <li class="filter" data-filter=".part-time">
+                En yeni ilanlar
+            </li>
+            <li class="filter" data-filter="all">
+                Öne çıkan ilanlar
+            </li>
+        </ul>
+        <div class="shorting">
+            <div class="row">
+                @for (int i = 0; i < 10; i++)
+                {
+                    <div class="col-lg-12 col-md-6 mix part-time">
+                        <div class="hot-jobs-list">
+                            <div class="row align-items-center">
+                                <div class="col-lg-2">
+                                    <a href="job-details.html" class="">
+                                        <img class="d-flex" src="~/telefon.jpg" alt="Image">
+                                    </a>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="hot-jobs-content">
+                                        <h3><a href="job-details.html">Elektronik</a></h3>
+                                        <span class="sub-title">Nokia 7610 Cep Telefonu</span>
+                                        <ul>
+                                            <li><span>İlan Sahibi:</span> H... T... (8.8 TP)</li>
+                                            <li><span>Teklifler: </span>3</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <ul class="deadline">
+                                        <li>
+                                            <i class="bx bx-location-plus"></i>
+                                            Çankaya/Ankara
+                                        </li>
+                                        <li>
+                                            <i class="bx bx-calendar"></i>
+                                            İlan Tarihi: 3 Eylül 2021
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="hot-jobs-btn">
+                                        <a href="/ilan-detayi" class="default-btn btn-two">Detayları gör</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <span class="featured">TP - 8.8/10</span>
+                        </div>
+                    </div>
+                }
+                <div class="col-12 text-center mt-2">
+                    <a href="#" class="default-btn btn-two">Daha fazla gör</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

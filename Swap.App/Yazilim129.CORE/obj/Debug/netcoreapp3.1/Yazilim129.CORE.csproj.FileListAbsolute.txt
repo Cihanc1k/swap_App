@@ -1,0 +1,90 @@
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\4 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\9 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\11 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\16 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\18 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\23 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\25 Ağustos\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\1 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csprojAssemblyReference.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.deps.json
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\bin\Debug\netcoreapp3.1\Yazilim129.CORE.pdb
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.AssemblyReference.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfoInputs.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.AssemblyInfo.cs
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.csproj.CoreCompileInputs.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.dll
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\Yazilim129.CORE\obj\Debug\netcoreapp3.1\Yazilim129.CORE.pdb

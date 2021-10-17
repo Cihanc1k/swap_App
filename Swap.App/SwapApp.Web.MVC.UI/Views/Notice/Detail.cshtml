@@ -1,0 +1,269 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles{
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+
+    <style>
+        #demo {
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+
+
+        .green {
+            background-color: #6fb936;
+        }
+
+        .thumb {
+            margin-bottom: 30px;
+        }
+
+        .page-top {
+            margin-top: 85px;
+        }
+
+
+        img.zoom {
+            width: 100%;
+            height: 200px;
+            border-radius: 5px;
+            object-fit: cover;
+            -webkit-transition: all .3s ease-in-out;
+            -moz-transition: all .3s ease-in-out;
+            -o-transition: all .3s ease-in-out;
+            -ms-transition: all .3s ease-in-out;
+        }
+
+
+        .transition {
+            -webkit-transform: scale(1.2);
+            -moz-transform: scale(1.2);
+            -o-transform: scale(1.2);
+            transform: scale(1.2);
+        }
+
+        .modal-header {
+            border-bottom: none;
+        }
+
+        .modal-title {
+            color: #000;
+        }
+
+        .modal-footer {
+            display: none;
+        }
+    </style>
+}
+
+<section class="job-details-area ptb-100">
+    <div class="container">
+        <div class="row d-none d-sm-block">
+            <div class="col-lg-12">
+                <div class="hot-jobs-list">
+                    <div class="row">
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/62307/air-bubbles-diving-underwater-blow-62307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/62307/air-bubbles-diving-underwater-blow-62307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                            </a>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid" alt="">
+                            </a>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+                            </a>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+                            </a>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/1038914/pexels-photo-1038914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/1038914/pexels-photo-1038914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                            </a>
+                        </div>
+
+                        <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                            <a href="https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                <img src="https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="hot-jobs-list">
+                    <div class="row align-items-center">
+                        <div class="col-lg-2">
+                            <div class="hot-jobs-img">
+                                <img src="~/telefon.jpg" alt="Image">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="hot-jobs-content">
+                                <span class="sub-title font-weight-bold">Elektronik</span>
+                                <h3>Nokia N66 Cep Telefonu</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="hot-jobs-btn">
+                                <a href="#" class="default-btn">Takas Teklifi Yap</a>
+                                <p><span>İlan tarihi: </span>8 Eylül 2021</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="job-details-content">
+                    <h3>Job Description</h3>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit amet, consetetur</p>
+                    <h4>Responsibilities:</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nisi aspernatur modi doloribus dolorem quidem! Neque placeat numquam vel magni ipsam, similique eligendi sunt laudantium, nihil alias soluta eos in Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et nam eveniet quasi.</p>
+                    <ul>
+                        <li>Stet clita kasd gubergren, no sea takimata sanctus</li>
+                        <li>Lorem ipsum dolor sit amet lorem ipsum dolor sit amet</li>
+                        <li>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor</li>
+                        <li>Aliquyam erat, sed diam voluptua</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="job-details-sidebar">
+                    <div class="row d-sm-none">
+                        <div class="col-lg-12">
+                            <div class="hot-jobs-list">
+                                <div class="row">
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/62307/air-bubbles-diving-underwater-blow-62307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/62307/air-bubbles-diving-underwater-blow-62307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/38238/maldives-ile-beach-sun-38238.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid" alt="">
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/158827/field-corn-air-frisch-158827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="zoom img-fluid " alt="">
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/1038914/pexels-photo-1038914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/1038914/pexels-photo-1038914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                                        </a>
+                                    </div>
+
+                                    <div class="col-lg-2 col-md-4 col-xs-6 thumb">
+                                        <a href="https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="fancybox" rel="ligthbox">
+                                            <img src="https://images.pexels.com/photos/414645/pexels-photo-414645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" class="zoom img-fluid " alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="job-widget">
+                        <h3>İlan Sahibi Hakkında</h3>
+                        <ul class="overview">
+                            <li class="text-center">
+                                <img class="rounded rounded-circle" src="~/telefon.jpg" width="150" height="150" alt="Alternate Text" />
+                            </li>
+                            <li><hr /></li>
+                            <li>
+                                Ad
+                                <span>: H... T...</span>
+                            </li>
+                            <li>
+                                TP Puanı
+                                <span>: 8.8/10</span>
+                            </li>
+                            <li>
+                                Üyelik Tarihi
+                                <span>: 3 Ağustos 2021</span>
+                            </li>
+                            <li>
+                                Aktif İlan Sayısı
+                                <span>: 3</span>
+                            </li>
+                            <li>
+                                Takas Sayısı
+                                <span>: 13</span>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="job-widget">
+                        <h3>İlan Hakkında</h3>
+                        <ul class="overview">
+                            <li>
+                                Yayınlanma Tarihi
+                                <span>: 3 Eylül 2021</span>
+                            </li>
+                            <li>
+                                Alınan Teklif
+                                <span>: 5</span>
+                            </li>
+                            <li>
+                                Kategori
+                                <span>: Elektronik</span>
+                            </li>
+                            <li>
+                                Konum
+                                <span>: Çankaya/Ankara</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+      
+    </div>
+</section>
+
+
+@section Scripts{
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".fancybox").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+
+            $(".zoom").hover(function () {
+
+                $(this).addClass('transition');
+            }, function () {
+
+                $(this).removeClass('transition');
+            });
+        });
+    </script>
+}

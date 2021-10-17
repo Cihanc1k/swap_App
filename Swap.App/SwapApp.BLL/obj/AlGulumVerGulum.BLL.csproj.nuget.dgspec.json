@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.BLL\\AlGulumVerGulum.BLL.csproj": {}
+  },
+  "projects": {
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.BLL\\AlGulumVerGulum.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.BLL\\AlGulumVerGulum.BLL.csproj",
+        "projectName": "AlGulumVerGulum.BLL",
+        "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.BLL\\AlGulumVerGulum.BLL.csproj",
+        "packagesPath": "C:\\Users\\Vektörel\\.nuget\\packages\\",
+        "outputPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vektörel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\AlGulumVerGulum.DAL.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\AlGulumVerGulum.DAL.csproj"
+              },
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj"
+              },
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\AlGulumVerGulum.DTO.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\AlGulumVerGulum.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\AlGulumVerGulum.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\AlGulumVerGulum.DAL.csproj",
+        "projectName": "AlGulumVerGulum.DAL",
+        "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\AlGulumVerGulum.DAL.csproj",
+        "packagesPath": "C:\\Users\\Vektörel\\.nuget\\packages\\",
+        "outputPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vektörel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj"
+              },
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj",
+        "projectName": "AlGulumVerGulum.DOMAIN",
+        "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\AlGulumVerGulum.DOMAIN.csproj",
+        "packagesPath": "C:\\Users\\Vektörel\\.nuget\\packages\\",
+        "outputPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DOMAIN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vektörel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj": {
+                "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\AlGulumVerGulum.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\AlGulumVerGulum.DTO.csproj",
+        "projectName": "AlGulumVerGulum.DTO",
+        "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\AlGulumVerGulum.DTO.csproj",
+        "packagesPath": "C:\\Users\\Vektörel\\.nuget\\packages\\",
+        "outputPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\AlGulumVerGulum.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vektörel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj",
+        "projectName": "Yazilim129.CORE",
+        "projectPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\Yazilim129.CORE.csproj",
+        "packagesPath": "C:\\Users\\Vektörel\\.nuget\\packages\\",
+        "outputPath": "D:\\Soner Hoca\\20 Eylül\\AlGulumVerGulum\\Yazilim129.CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vektörel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

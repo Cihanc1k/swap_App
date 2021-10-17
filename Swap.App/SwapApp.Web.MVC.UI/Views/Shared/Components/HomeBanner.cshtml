@@ -1,0 +1,50 @@
+﻿<section class="banner-area banner-area-two ptb-100">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="banner-content rounded px-3 p-1" style="background-color: rgba(0, 0, 0, 0.5);">
+                    <h1 class="text-white">Atma, Alma, Takas Et !</h1>
+                    <p class="text-white">Sayısız ilan takas teklifi bekliyor!</p>
+                    <form class="search-job">
+                        <div class="row">
+                            <div class="col-lg-5">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="job-title" placeholder="Kategori seç">
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="job-title-2" placeholder="Şehir seç">
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <a asp-controller="Notice" asp-action="CreateNotice" class="default-btn">
+                                   İlan ver
+                                </a>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="total-job-count">
+                        <div class="row">
+                            <div class="col-lg-4 col-sm-6 col-md-4">
+                                <div class="job-count">
+                                    <h3 class="text-white"><span class="text-white">Toplam ilan sayısı: </span>9,492</h3>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 col-md-4">
+                                <div class="job-count">
+                                    <h3 class="text-white"><span class="text-white">Takas edilen: </span>2,558</h3>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 col-md-4 offset-sm-3 offset-md-0 offset-lg-0">
+                                <div class="job-count">
+                                    <h3 class="text-white"><span class="text-white">Takas bekleyen: </span>6,436</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

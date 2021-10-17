@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vektörel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vektörel\\.nuget\\packages"
+    ]
+  }
+}

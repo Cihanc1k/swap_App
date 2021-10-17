@@ -1,0 +1,18 @@
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.deps.json
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.dll
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.pdb
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.csprojAssemblyReference.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.AssemblyInfoInputs.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.AssemblyInfo.cs
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.dll
+D:\Soner Hoca\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.pdb
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.deps.json
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.dll
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\bin\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.pdb
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.csproj.AssemblyReference.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.AssemblyInfoInputs.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.AssemblyInfo.cs
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.csproj.CoreCompileInputs.cache
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.dll
+C:\Users\chn\Desktop\yazılım\Eylül2021\20 Eylül\AlGulumVerGulum\AlGulumVerGulum.DTO\obj\Debug\netcoreapp3.1\AlGulumVerGulum.DTO.pdb

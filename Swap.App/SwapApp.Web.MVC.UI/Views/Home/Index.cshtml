@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@await Component.InvokeAsync("HomeBanner")
+
+<section class="working-area working-area-two pt-100 pb-70">
+    <div class="container">
+        <div class="section-title green-title">
+            <span>Takasım Geldi</span>
+            <h2>Nasıl Çalışır?</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-working">
+                    <i class="flaticon-tick"></i>
+                    <h3>Bir İlan Yayınla</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate sint tempore.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-working">
+                    <i class="flaticon-find-my-friend"></i>
+                    <h3>Aradığın İlanı Bul</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate sint tempore.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-working">
+                    <i class="flaticon-salary"></i>
+                    <h3>Takas Teklifi Gönder</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate sint tempore.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <div class="single-working">
+                    <i class="flaticon-submit"></i>
+                    <h3>Takası Tamamla</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate sint tempore.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@await Component.InvokeAsync("HomeCategories")
+@*Banner*@
+@await Component.InvokeAsync("FeatureNotices")
+
+
+<div class="copy-right-area copy-right-area-two">
+    <div class="container">
+        <p>
+            © @DateTime.Now.Year TakasEt Is Proudly Created By
+            <a href="../../../envytheme.com/index.html" target="_blank">Yazılım 129</a>
+        </p>
+    </div>
+</div>
+
+
+<div class="go-top go-top-two">
+    <i class="bx bx-chevrons-up"></i>
+    <i class="bx bx-chevrons-up"></i>
+</div>
